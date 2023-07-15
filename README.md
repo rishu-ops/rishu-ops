@@ -1,3 +1,7 @@
+<div style="display: flex; justify-content: center;">
+  <img src="https://media.tenor.com/hmDMrE1yMAkAAAAS/when-the-coding-when-the.gif" style="width: 300px; height: 200px;" />
+</div>
+
 # bio:
 there are 10 types of people in this world, those who understand programming and those who don't
 
@@ -22,7 +26,7 @@ there are 10 types of people in this world, those who understand programming and
 ![](https://github-contributor-stats.vercel.app/api?username=rishu-ops&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+<img src="https://s3.amazonaws.com/rails-camp-tutorials/blog/programming+memes/states-of-a-programmer.png"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rishu-ops&icon=4&color=6)](https://visitcount.itsvg.in)
