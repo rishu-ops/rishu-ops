@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm rishu , an enthusiastic and aspiring frontend developer diving headfirst into the exciting world of web development. 🚀<br>fun-fact -> As a coding newbie, I once mistook a CSS class for a CSS party and wondered why my website wasn't dancing. 😄 Learning every day and turning those "oops" moments into "aha" moments!<br>As a coding newbie, I once mistook a CSS class for a CSS party and wondered why my website wasn't dancing. 😄 Learning every day and turning those "oops" moments into "aha" moments!<br>I'm always up for connecting with fellow coders, mentors, and tech enthusiasts. Whether it's coding advice or just sharing funny coding memes, let's chat!<br>
+I'm rishu , an enthusiastic and aspiring frontend developer diving headfirst into the exciting world of web development. 🚀<br>fun-fact -> As a coding newbie, I once mistook a CSS class for a CSS party and wondered why my website wasn't dancing. 😄 Learning every day and turning those "oops" moments into "aha" moments!<br>As a coding newbie, I once mistook a CSS class for a CSS party and wondered why my website wasn't dancing. 😄<br>I'm always up for connecting with fellow coders, mentors, and tech enthusiasts. Whether it's coding advice or just sharing funny coding memes, let's chat!<br>
 
 
 ## 🌐 Socials:
