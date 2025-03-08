@@ -13,8 +13,6 @@ I'm always up for connecting with fellow coders, mentors, and tech enthusiasts. 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rishu-ops&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rishu-ops&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rishu-ops&icon=0&color=0)](https://visitcount.itsvg.in)
