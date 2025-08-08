@@ -1,7 +1,5 @@
 # 💫 About Me:
-Hi, I'm Rishu – an enthusiastic and aspiring frontend developer exploring the world of web development. 🚀  
-**Fun fact:** When I started learning, I thought a CSS class was a party and wondered why my website wasn’t dancing. 😄  
-I love learning new things, fixing bugs, and turning mistakes into progress.
+Based on your resume—which highlights your experience as a full-stack developer (not just frontend), your MERN stack proficiency, real-world project contributions, and your self-taught journey—here’s a revised version of your intro that stays simple but aligns better with your current skill level:
 
 Always open to connecting with fellow coders, mentors, or anyone who loves tech. Let's learn and grow together!
 
