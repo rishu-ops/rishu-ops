@@ -1,5 +1,6 @@
 # 💫 About Me:
-Based on your resume—which highlights your experience as a full-stack developer (not just frontend), your MERN stack proficiency, real-world project contributions, and your self-taught journey—here’s a revised version of your intro that stays simple but aligns better with your current skill level:
+Hi, I'm Rishu – a full-stack developer with hands-on experience building real-world projects using the MERN stack.   
+I enjoy turning ideas into functional, user-friendly applications, fixing bugs, and growing every day by learning something new.
 
 Always open to connecting with fellow coders, mentors, or anyone who loves tech. Let's learn and grow together!
 
